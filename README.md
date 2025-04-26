@@ -141,7 +141,6 @@ Example output:
 
 ![Predicted](images/2.png)  
 
-(Audio plays)
 ---
 
 ## 🛠 Technical Stack
