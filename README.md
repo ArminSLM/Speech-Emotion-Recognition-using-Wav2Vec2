@@ -23,7 +23,7 @@ We combined several popular open-source emotional speech datasets:
 - **TESS** (Toronto Emotional Speech Set)
 - **SAVEE** (Surrey Audio-Visual Expressed Emotion)
 
-> All datasets were downloaded automatically using the `kagglehub` library.
+> All datasets were downloaded automatically using the `kagglehub` library .
 
 ### 🏷️ Supported Emotion Classes
 
